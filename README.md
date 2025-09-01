@@ -24,13 +24,13 @@ Upload a PDF and let the AI do the rest — extracting explanations, summarizing
 ---
 
 ## 📂 Project Structure
-├── agents.py # Defines AI agents (explainer, literature agent, gap analyzer)
-├── tasks.py # Research analysis tasks
-├── main.py # Runs CrewAI pipeline
-├── ui_app.py # Streamlit UI
-├── requirements.txt # Dependencies
-├── .env # Store your OpenAI API key
-└── README.md # Project documentation
+├── agents.py # Defines AI agents (explainer, literature agent, gap analyzer) <br>
+├── tasks.py # Research analysis tasks <br>
+├── main.py # Runs CrewAI pipeline <br>
+├── ui_app.py # Streamlit UI <br>
+├── requirements.txt # Dependencies <br>
+├── .env # Store your OpenAI API key <br>
+└── README.md # Project documentation 
 
 ## ⚙️ Setup Instructions
 
